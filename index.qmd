@@ -41,7 +41,7 @@ __Dr Rob Geada__
 
 :mortar_board: PhD in Computer Science from Newcastle University 
 
-:tophat: Currently working as AI Safety Tech Lead & Prinicipal ML Engineer at Red Hat
+:tophat: Currently working as AI Safety Tech Lead & Principal ML Engineer at Red Hat
 :::
 ::::
 
@@ -53,7 +53,7 @@ __Dr Rob Geada__
 :::
 ::: {.column width=60%}
 
-:sparkling_heart: Our team is articularly interested in __safe__ and __reliable__ use of Generative AI with a focus on:
+:sparkling_heart: Our team is particularly interested in __safe__ and __reliable__ use of Generative AI with a focus on:
 
 - :shield: guardrails
 - :test_tube: evaluation and red teaming
@@ -82,7 +82,7 @@ There is a lot of pressure to ship GenAI applications fast, but this can lead to
 ![](img/pliny.png){fig-align="center" height=200}
 ![](img/effort.png){fig-align="center" height=200}
 
-Security research shows that given enough time, all LLMs are vulnerable to adverserial attacks potentially causing them to engage in risky behaviour, for example:
+Security research shows that given enough time, all LLMs are vulnerable to adversarial attacks potentially causing them to engage in risky behaviour, for example:
 
 ::: {.fragment .fade-in-then-semi-out}
 :no_entry_sign: violating guidelines
@@ -174,7 +174,7 @@ python -m garak \
 
 ## :stethoscope: Risk assessment: example framework
 
-You can still carry out a risk assessment against a taxonomy even if you are an even earlier stage of GenAI adoption
+You can still carry out a risk assessment against a taxonomy even if you are at an even earlier stage of GenAI adoption
 
 ::: {.fragment .fade-in-then-semi-out} 
 ![](img/risk_assessment.png){fig-align="center" height=450}
@@ -196,7 +196,7 @@ The model was trained once. Your compliance requirements can change quarterly. A
 
 ::: {.fragment .fade-in-then-semi-out .shrink}
 **Alignment is best-effort. Guardrails are enforceable.**
-Training reduces unwanted outputs. It doesn't guarantee them. Moreover, you can be wasting lots of token letting harmful inputs through
+Training reduces unwanted outputs. It doesn't guarantee them. Moreover, you can be wasting lots of token by letting harmful inputs through
 :::
 
 ## :rotating_light: General vulnerabilities worth guarding against
