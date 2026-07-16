@@ -891,4 +891,4 @@ All layers compose in the same `config.yml`. The Operator deploys it. OTel trace
 
 ## :pray: Thank you
 
-![](img/qr-code.png){fig-align="center" height=500}
+![](img/qr-code-updated.png){fig-align="center" height=500}
