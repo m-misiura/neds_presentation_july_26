@@ -196,7 +196,7 @@ The model was trained once. Your compliance requirements can change quarterly. A
 
 ::: {.fragment .fade-in-then-semi-out .shrink}
 **Alignment is best-effort. Guardrails are enforceable.**
-Training reduces unwanted outputs. It doesn't guarantee them. Moreover, you can be wasting lots of token by letting harmful inputs through
+Training reduces unwanted outputs. It doesn't guarantee them. Moreover, you can be wasting lots of tokens by letting harmful inputs through
 :::
 
 ## :rotating_light: General vulnerabilities worth guarding against
